@@ -15,7 +15,7 @@ Jump in and enjoy!
 💡 Remember to enable Onesync legacy or infinity (preferably through txAdmin) for the server to function optimally.
 
 Facing challenges? Our Discord community is here to help!
-![image](https://github.com/devterrific/ProjectTerrific/assets/119811229/be3b96bb-52a2-4599-a2de-2f6b9efb430f)
+
 
 https://discord.gg/fkzvNft7gp
 
@@ -27,6 +27,7 @@ Your expertise can help shape "Project Terrific"! Whether you've spotted a bug, 
 Our community is our strength. Connect with fellow developers, get assistance, and be the first to hear about the latest "Project Terrific" news on our Discord server.
 
 Join our Discord server : https://discord.gg/fkzvNft7gp
+![image](https://github.com/devterrific/ProjectTerrific/assets/119811229/be3b96bb-52a2-4599-a2de-2f6b9efb430f)
 
 📜 License
 Project Terrific is proudly released under the GNU General Public License. You're free to redistribute and/or modify it in accordance with the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any subsequent version.
